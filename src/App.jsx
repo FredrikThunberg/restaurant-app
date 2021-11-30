@@ -3,7 +3,7 @@ import Categories from './components/Categories';
 import Menu from './components/Menu';
 import items from "./data";
 
-//global variabel som array som har en spread operator som skapar en set objekt med en map funktion 
+
 const allCategories = ['all', ...new Set(items.map((item) => item.category))];
 const App = () => {
     
