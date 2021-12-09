@@ -4,7 +4,7 @@ Technology Used  | Link
 ------------- | -------------
 React  | [React](https://reactjs.org/)
 Css  | 
-Visit  | 
+
 ------------- | -------------
 Live | [Live Page](https://fredrikthunberg.github.io/restaurant-app/)
 
