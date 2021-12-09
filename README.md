@@ -9,9 +9,8 @@ Live | [Live Page](https://fredrikthunberg.github.io/restaurant-app/)
 <br>
 This menu is an resaurant menu where you can click on the category <br>
 buttons and filter to the food you want.
-<br>
-<br>
-- [x] *My goal is to continue to develop this site* <br>
+
+
 
 ## Start page
 ![picture alt](https://github.com/FredrikThunberg/restaurant-app/blob/main/Menu-pics/Menu1.png)
@@ -24,3 +23,6 @@ buttons and filter to the food you want.
 
 ## Shakes
 ![picture alt](https://github.com/FredrikThunberg/restaurant-app/blob/main/Menu-pics/menu4.png)
+
+
+- [x] *My goal is to continue to develop this site* <br>
